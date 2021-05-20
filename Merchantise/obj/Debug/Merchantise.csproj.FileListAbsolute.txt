@@ -1,0 +1,17 @@
+D:\Programming\C#\Merchantise\Merchantise\Merchantise\bin\Debug\Merchantise.exe.config
+D:\Programming\C#\Merchantise\Merchantise\Merchantise\bin\Debug\Merchantise.exe
+D:\Programming\C#\Merchantise\Merchantise\Merchantise\bin\Debug\Merchantise.pdb
+D:\Programming\C#\Merchantise\Merchantise\Merchantise\bin\Debug\Guna.UI2.dll
+D:\Programming\C#\Merchantise\Merchantise\Merchantise\obj\Debug\Merchantise.csprojAssemblyReference.cache
+D:\Programming\C#\Merchantise\Merchantise\Merchantise\obj\Debug\Merchantise.LoginForm.resources
+D:\Programming\C#\Merchantise\Merchantise\Merchantise\obj\Debug\Merchantise.Properties.Resources.resources
+D:\Programming\C#\Merchantise\Merchantise\Merchantise\obj\Debug\Merchantise.csproj.GenerateResource.cache
+D:\Programming\C#\Merchantise\Merchantise\Merchantise\obj\Debug\Merchantise.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Merchantise\Merchantise\Merchantise\obj\Debug\Merchantise.csproj.CopyComplete
+D:\Programming\C#\Merchantise\Merchantise\Merchantise\obj\Debug\Merchantise.exe
+D:\Programming\C#\Merchantise\Merchantise\Merchantise\obj\Debug\Merchantise.pdb
+D:\Programming\C#\Merchantise\Merchantise\Merchantise\obj\Debug\Merchantise.SplashForm.resources
+D:\Programming\C#\Merchantise\Merchantise\Merchantise\obj\Debug\Merchantise.CategoryForm.resources
+D:\Programming\C#\Merchantise\Merchantise\Merchantise\obj\Debug\Merchantise.ProductForm.resources
+D:\Programming\C#\Merchantise\Merchantise\Merchantise\obj\Debug\Merchantise.SellerForm.resources
+D:\Programming\C#\Merchantise\Merchantise\Merchantise\obj\Debug\Merchantise.SellingForm.resources
