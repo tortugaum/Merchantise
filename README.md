@@ -11,14 +11,14 @@
         <li>Impressão de PDF das vendas</li>        
     </ul>
 
-    <ul list-style-type="none">
+    <ul>
         <li>Tela de Login</li>
-        <ul list-style-type="square">            
+        <ul>            
             <li><img src="https://user-images.githubusercontent.com/49923037/118923029-536a7380-b911-11eb-9b10-94153f77a8ec.jpeg" alt="Tela de Login" ></li>
             <li>Seleção entre administrador e vendedor</li>
             <li>Campo de usuário e senha</li>
             <li>Botões para login e limpar campos</li>
-        </ul>
-        
+        </ul>       
     </ul>
+
 </body>
