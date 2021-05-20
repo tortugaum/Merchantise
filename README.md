@@ -10,7 +10,7 @@
         <li>Calculo do valor de vendas</li>
         <li>Impressão de PDF das vendas</li>        
     </ul>
-
+    </br>   
     <ul>
         <li>Tela de Login</li>
         <ul>            
@@ -20,5 +20,4 @@
             <li>Botões para login e limpar campos</li>
         </ul>       
     </ul>
-
 </body>
